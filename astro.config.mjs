@@ -10,7 +10,6 @@ export default defineConfig({
 				linkedin: 'https://www.linkedin.com/company/79915299/',
 				twitter: "https://twitter.com/Mindplex_AI",
 				youtube: "https://www.youtube.com/channel/UCUwdBITXX-aDXgt2ZmBD-IA",
-
 			},
 			sidebar: [
 				{
