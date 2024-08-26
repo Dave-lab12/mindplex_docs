@@ -14,7 +14,7 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Overview',
-					link: '/overview'
+					link: '/mindplex-whitepaper'
 				},
 				{
 					label: 'Mindplex Magazine',
